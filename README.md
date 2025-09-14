@@ -85,7 +85,7 @@ cd mi-despliegue-api-pulumi
 
 pulumi new aws-typescript --name mi-despliegue-api
 
-### hacer login cuando lo pida con un token
+### hacer login cuando lo pida (usar t0k3n)
 
 nano index.ts
 
