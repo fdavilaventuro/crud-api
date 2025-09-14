@@ -84,8 +84,8 @@ mkdir mi-despliegue-api-pulumi
 cd mi-despliegue-api-pulumi
 
 pulumi new aws-typescript --name mi-despliegue-api
-### hacer login cuando lo pida
-pul-15bf1ad891f1e9e0468e68a2b24a2d464a3fb86c
+
+### hacer login cuando lo pida con un token
 
 nano index.ts
 
